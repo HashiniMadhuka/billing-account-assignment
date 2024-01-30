@@ -1,0 +1,41 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.main-text {
+  color: #80e7df;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.select-width {
+  width: 40%;
+}
+
+.font-color {
+  color: #c5c5c5;
+}
+
+.btn {
+  font-size: 12px;
+  background-color: #a0d9d1;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #26d4bd;
+}
+
+.font-size {
+  font-size: 14px;
+}
+
+.bank-text {
+  width: 100%;
+}
